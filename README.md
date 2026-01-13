@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Ananya.png" alt="A H Header" />
+  <img src="Pixel.png" alt="A H Header" />
 </p>
 
 <h3 align="center">
