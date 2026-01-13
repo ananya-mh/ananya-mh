@@ -16,5 +16,5 @@ Software Engineer | Backend • Data • Distributed Systems
 
 
 ## Connect
-- LinkedIn: https://linkedin.com/in/yourname
-- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/ananyamhegde
+- Email: anu.mhegde@gmail.com
