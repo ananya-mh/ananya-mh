@@ -27,7 +27,7 @@ Software Engineer | Backend •  Distributed Systems • AI/ML
 ### Infrastructure & Automation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,kubernetes,git,githubactions,linux,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,kubernetes,git,githubactions,linux,postman&perline=9" />
   </a>
 </p>
 
